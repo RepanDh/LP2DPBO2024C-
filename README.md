@@ -42,7 +42,8 @@ class Shirt memiliki atribut :
 
 ### Dokumentasi Program
 1. Meminta masukan user
+   
   ![Screenshot 2024-02-26 210437](https://github.com/RepanDh/LP2DPBO2024C-/assets/133224998/1efea1ba-6957-4d72-ab49-06f49d6a1010)
 
-2. Menampilkan data hasil masukan kedalam bentuk tabel
+3. Menampilkan data hasil masukan kedalam bentuk tabel
    ![out](https://github.com/RepanDh/LP2DPBO2024C-/assets/133224998/0339f3bc-8943-4efc-ae3d-e1a099ffabfc)
